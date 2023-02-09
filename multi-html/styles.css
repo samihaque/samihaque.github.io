@@ -1,0 +1,45 @@
+h1{
+    font-family: sans-serif;
+    color: green;
+    text-align: center;
+    height: 100px;
+    align-content: center;
+    text-align: center;
+    background-color: bisque;
+    font-size: 35px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+#profile_image{
+    height: 500px;
+    width: 350px;
+}
+
+.alignment{
+    display: flex;
+    justify-content: center;
+}
+
+.caption{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: midnightblue;
+    padding: 4px;
+}
+
+a{
+    padding: 3px;
+    font-size: 18px;
+    color: green;
+}
+
+a:visited{
+    color: rebeccapurple;
+}
+
+footer{
+    margin-top: 80px;
+}
