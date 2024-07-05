@@ -43,12 +43,11 @@ social:
     url: http://www.linkedin.com/in/ubaydul-sami
   - title: github
     url: https://github.com/samihaque
-  - title: codeforces
+  - title: Codeforces
     url: https://codeforces.com/profile/Samihaque
-    icon: https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg
+    # icon: https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg
   - title: hackerrank
     url: https://www.hackerrank.com/profile/dev_sami_u
-    icon: https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg
 
 # Postal address (add as many lines as necessary)
 address:
