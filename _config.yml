@@ -51,7 +51,7 @@ address:
   - line: Queens, New York
 
 # Credits content
-credits: 'This website is created using Freelancer, it's a free-to-use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This website is created using Freelancer, it`s a free-to-use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
