@@ -45,6 +45,10 @@ social:
     url: https://github.com/samihaque
   - title: codeforces
     url: https://codeforces.com/profile/Samihaque
+    icon: https://codeforces.org/s/41665/images/codeforces-sponsored-by-ton.png
+  - title: hackerrank
+    url: https://www.hackerrank.com/profile/dev_sami_u
+    icon: https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg
 
 # Postal address (add as many lines as necessary)
 address:
