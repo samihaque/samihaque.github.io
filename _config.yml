@@ -2,8 +2,8 @@
 title: Ubaydul H Sami
 email: dev.sami.u@gmail.com
 url: https://samihaque.github.io/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Hello! I am a recent Computer Science graduate with a strong passion for Data Science and Data Analysis. This site serves as a platform to showcase my skills, projects, and professional journey. Here, you will find a detailed portfolio of my work, aimed at providing a comprehensive view of my capabilities and experiences. Whether you are a recruiter, potential employer, or simply interested in learning more about my work, I invite you to explore my projects and get to know more about my background and aspirations. Thank you for visiting!"
+keywords: "data scientist, data analyst, computer science graduate, data science graduate, healthcare professional, healthcare experience, data science experience"
 skills: "Data Scientist - Data Analyst - Computer Science Engineer"
 meta_author: Sami Ubaydul
 
@@ -39,24 +39,19 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: http://www.linkedin.com/in/ubaydul-sami
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/samihaque
+  - title: codeforces
+    url: https://codeforces.com/profile/Samihaque
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Queens, New York
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This website is created using Freelancer, it's a free-to-use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
