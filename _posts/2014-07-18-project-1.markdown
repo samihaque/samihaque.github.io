@@ -5,7 +5,7 @@ date: 2024-06-28
 img: research_replication.jpg
 alt: image-alt
 project-date: April 2014
-client: [Research Work](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/antiimmigrant-rhetoric-and-ice-reporting-interest-evidence-from-a-largescale-study-of-web-search-data/AF982680AEC49AE65CACFD73352A44AD) Replication
+client: Research Work Replication
 category: Research | Replication | R programming | Data Wrangling | Data Visualization
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
