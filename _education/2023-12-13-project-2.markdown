@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2023-12-13
+img: furrever_stay.png
+alt: image-alt
+project-date: October 2023
+project: Furrever Stay
+category: Data Analysis and Machine Learning with Python
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+---
