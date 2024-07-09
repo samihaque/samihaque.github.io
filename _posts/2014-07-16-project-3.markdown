@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2024-05-20
-img: circus.png
+img: literature_nlp.jpeg
 alt: image-alt
 project-date: March 2024
 client: Unraveling Literary Success
