@@ -5,7 +5,7 @@ date: 2024-05-20
 img: literature_nlp.jpeg
 alt: image-alt
 project-date: March 2024
-client: Unraveling Literary Success
+project: Unraveling Literary Success
 category: Natural Language Processing | R programming
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
