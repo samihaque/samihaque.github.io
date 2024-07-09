@@ -1,22 +1,22 @@
 <!-- Education Grid Section -->
 <section id="education">
-  <div class="container experience-flex-grid">
+  <div class="container portfolio-flex-grid">
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2>Education</h2>
         <hr class="star-primary">
       </div>
     </div>
-    <div class="experience-flex-row">
+    <div class="portfolio-flex-row">
       {% for post in site.posts %}
-      <div class="education-flex-item education-item">
-        <a href="#educationModal-{{ post.modal-id }}" class="education-link" data-toggle="modal">
+      <div class="portfolio-flex-item portfolio-item">
+        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
           <div class="caption">
             <div class="caption-content">
               <i class="fa fa-search-plus fa-3x"></i>
             </div>
           </div>
-          <img src="img/education/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+          <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
         </a>
       </div>
       {% endfor %}
