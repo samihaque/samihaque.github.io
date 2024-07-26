@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-12-06
-img: mapping_prosperity.jpeg
+img: pmc_img.jpg
 alt: image-alt
 project-date: September 2023
 project: Mapping Prosperity
